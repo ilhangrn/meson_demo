@@ -16,3 +16,4 @@ Lets run:
 '''
 
 It fails on windows. I will leave windows here. Lets push code to github and continue in wsl
+> it is working on ubuntu effortlessly. Passing test and giving report.

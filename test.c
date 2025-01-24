@@ -6,6 +6,6 @@ int main(int argc, char **argv){
     assert(abc);
     assert(get_val(*abc) == 0);
     increment(abc);
-    assert(get_val(*abc) == 0);
+    assert(get_val(*abc) == 1);
     return 0; 
 }
